@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|c:\\users\\phgianini\\desktop\\nova pasta\\taqui-api-.net-\\taqui.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|solutionrelative:taqui.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|c:\\users\\phgianini\\desktop\\nova pasta\\taqui-api-.net-\\taqui.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|solutionrelative:taqui.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|c:\\users\\phgianini\\desktop\\nova pasta\\taqui-api-.net-\\taqui.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|solutionrelative:taqui.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|c:\\users\\phgianini\\desktop\\nova pasta\\taqui-api-.net-\\taqui.api\\taqui.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|solutionrelative:taqui.api\\taqui.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|c:\\users\\phgianini\\desktop\\nova pasta\\taqui-api-.net-\\taqui.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7851EB0-1B54-4B97-839D-D8DDBE282457}|Taqui.API\\Taqui.API.csproj|solutionrelative:taqui.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +47,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Taqui.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Taqui.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T21:18:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Taqui.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Taqui.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:18:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Taqui.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Taqui.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:18:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taqui.API.http",
+              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Taqui.API.http",
+              "RelativeDocumentMoniker": "Taqui.API\\Taqui.API.http",
+              "ToolTip": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Taqui.API.http",
+              "RelativeToolTip": "Taqui.API\\Taqui.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-11T21:18:27.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Program.cs",
+              "RelativeDocumentMoniker": "Taqui.API\\Program.cs",
+              "ToolTip": "C:\\Users\\phgianini\\Desktop\\Nova pasta\\TAQUI-API-.NET-\\Taqui.API\\Program.cs",
+              "RelativeToolTip": "Taqui.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:18:23.486Z",
+              "EditorCaption": ""
             }
           ]
         }
