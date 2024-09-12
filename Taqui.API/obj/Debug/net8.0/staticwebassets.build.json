@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8rP8aJQNv7+gXqxPHxMUtH9AAm6tdf7N1iBfbZn/9OA=",
+  "Source": "Taqui.API",
+  "BasePath": "_content/Taqui.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

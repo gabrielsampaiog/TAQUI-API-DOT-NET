@@ -24,11 +24,14 @@ namespace Taqui.Repository
             _context.SaveChanges();
         }
 
-        public void Delete(T entity)
+        public void Delete(int id)
         {
-            _context.Remove(entity);
-
-            _context.SaveChanges();
+            var entity = _dbSet.Find(id);
+            if (entity != null)
+            {
+                _dbSet.Remove(entity);
+                _context.SaveChanges();
+            }
         }
 
         public IEnumerable<T> GetAll()

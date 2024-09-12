@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taqui.Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36a9440a6e777b4fd7b25ac1cdec2ddb0482ccf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taqui.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taqui.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
