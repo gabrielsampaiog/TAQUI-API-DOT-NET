@@ -10,3 +10,15 @@ C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Models\obj\Debug\net
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Models\obj\Debug\net8.0\refint\Taqui.Models.dll
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Models\obj\Debug\net8.0\Taqui.Models.pdb
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Models\obj\Debug\net8.0\ref\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\bin\Debug\net8.0\Taqui.Models.deps.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\bin\Debug\net8.0\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\bin\Debug\net8.0\Taqui.Models.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.sourcelink.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\refint\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\Taqui.Models.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Models\obj\Debug\net8.0\ref\Taqui.Models.dll

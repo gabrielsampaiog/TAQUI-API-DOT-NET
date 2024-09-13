@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taqui.Service/1.0.0": {
+        "dependencies": {
+          "Taqui.Models": "1.0.0"
+        },
+        "runtime": {
+          "Taqui.Service.dll": {}
+        }
+      },
+      "Taqui.Models/1.0.0": {
+        "runtime": {
+          "Taqui.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taqui.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taqui.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

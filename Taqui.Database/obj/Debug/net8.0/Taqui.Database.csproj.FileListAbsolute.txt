@@ -16,3 +16,21 @@ C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Database\obj\Debug\n
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Database\obj\Debug\net8.0\Taqui.Database.pdb
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Database\obj\Debug\net8.0\Taqui.Database.genruntimeconfig.cache
 C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.Database\obj\Debug\net8.0\ref\Taqui.Database.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Database.deps.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Database.runtimeconfig.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Database.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Database.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\bin\Debug\net8.0\Taqui.Models.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.sourcelink.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Da.CC53B206.Up2Date
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\refint\Taqui.Database.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\Taqui.Database.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Database\obj\Debug\net8.0\ref\Taqui.Database.dll

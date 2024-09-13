@@ -10,7 +10,8 @@
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.4.0",
           "Taqui.Models": "1.0.0",
-          "Taqui.Repository": "1.0.0"
+          "Taqui.Repository": "1.0.0",
+          "Taqui.Service": "1.0.0"
         },
         "runtime": {
           "Taqui.API.dll": {}
@@ -264,6 +265,14 @@
         "runtime": {
           "Taqui.Repository.dll": {}
         }
+      },
+      "Taqui.Service/1.0.0": {
+        "dependencies": {
+          "Taqui.Models": "1.0.0"
+        },
+        "runtime": {
+          "Taqui.Service.dll": {}
+        }
       }
     }
   },
@@ -480,6 +489,11 @@
       "sha512": ""
     },
     "Taqui.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taqui.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

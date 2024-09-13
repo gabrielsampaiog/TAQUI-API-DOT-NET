@@ -1,0 +1,16 @@
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\bin\Debug\net8.0\Taqui.Service.deps.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\bin\Debug\net8.0\Taqui.Service.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\bin\Debug\net8.0\Taqui.Service.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\bin\Debug\net8.0\Taqui.Models.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\bin\Debug\net8.0\Taqui.Models.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.sourcelink.json
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Se.C5FE723D.Up2Date
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\refint\Taqui.Service.dll
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\Taqui.Service.pdb
+C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.Service\obj\Debug\net8.0\ref\Taqui.Service.dll

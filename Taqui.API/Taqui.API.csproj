@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Taqui.Models\Taqui.Models.csproj" />
     <ProjectReference Include="..\Taqui.Repository\Taqui.Repository.csproj" />
+    <ProjectReference Include="..\Taqui.Service\Taqui.Service.csproj" />
   </ItemGroup>
 
 </Project>

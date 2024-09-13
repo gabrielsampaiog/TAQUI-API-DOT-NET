@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taqui.API", "Taqui.API\Taqu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{958E513A-C2E9-41D3-A607-BD2931EADEBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taqui.Database", "Taqui.Database\Taqui.Database.csproj", "{0749B558-AF73-417C-8B24-9208E172C0B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taqui.Database", "Taqui.Database\Taqui.Database.csproj", "{0749B558-AF73-417C-8B24-9208E172C0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taqui.Models", "Taqui.Models\Taqui.Models.csproj", "{A57903A2-BFD6-4189-81F8-071313F275AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taqui.Models", "Taqui.Models\Taqui.Models.csproj", "{A57903A2-BFD6-4189-81F8-071313F275AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taqui.Repository", "Taqui.Repository\Taqui.Repository.csproj", "{DB271530-D1A0-4D7B-BC8E-63926171229D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taqui.Repository", "Taqui.Repository\Taqui.Repository.csproj", "{DB271530-D1A0-4D7B-BC8E-63926171229D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taqui.Service", "Taqui.Service\Taqui.Service.csproj", "{25E6AC84-534D-4196-8769-DF49B8371D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{DB271530-D1A0-4D7B-BC8E-63926171229D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB271530-D1A0-4D7B-BC8E-63926171229D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB271530-D1A0-4D7B-BC8E-63926171229D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E6AC84-534D-4196-8769-DF49B8371D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E6AC84-534D-4196-8769-DF49B8371D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E6AC84-534D-4196-8769-DF49B8371D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E6AC84-534D-4196-8769-DF49B8371D3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{0749B558-AF73-417C-8B24-9208E172C0B2} = {958E513A-C2E9-41D3-A607-BD2931EADEBB}
 		{A57903A2-BFD6-4189-81F8-071313F275AF} = {958E513A-C2E9-41D3-A607-BD2931EADEBB}
 		{DB271530-D1A0-4D7B-BC8E-63926171229D} = {958E513A-C2E9-41D3-A607-BD2931EADEBB}
+		{25E6AC84-534D-4196-8769-DF49B8371D3D} = {958E513A-C2E9-41D3-A607-BD2931EADEBB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F4CD4B86-0320-4C5E-8351-E7FA6FCBDE50}
