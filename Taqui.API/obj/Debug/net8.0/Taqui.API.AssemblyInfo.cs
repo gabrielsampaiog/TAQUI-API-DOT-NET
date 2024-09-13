@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taqui.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7d82da368b822150d38aa8f87bc6fc7a30a01c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+500c94a5d8caab25bad1af6bd02200a99b74ec24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taqui.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taqui.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
