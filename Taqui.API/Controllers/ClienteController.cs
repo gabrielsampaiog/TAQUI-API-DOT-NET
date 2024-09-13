@@ -25,7 +25,7 @@ namespace Taqui.API.Controllers
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(ClienteDTOResponse), (int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType((int)HttpStatusCode.NoContent)]
+        [ProducesResponseType(typeof(ErrorResponse), (int)HttpStatusCode.NotFound)]
         public ActionResult<ClienteDTOResponse> Get(int id)
         {
             var cliente = _repository.GetById(id);
@@ -34,14 +34,14 @@ namespace Taqui.API.Controllers
                 return NotFound();
             }
 
+            //Retorna o cliente sem seus dados sensíveis.
             return Ok(_service.clienteToResponse(cliente));
         }
 
         // GET ALL: api/cliente
         [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<ClienteDTOResponse>), (int)HttpStatusCode.OK)]
-        [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType((int)HttpStatusCode.NoContent)]
+        [ProducesResponseType((int)HttpStatusCode.InternalServerError)] 
         public ActionResult<IEnumerable<ClienteDTOResponse>> GetAll()
         {
             IEnumerable<Cliente> clientes = _repository.GetAll();
@@ -54,7 +54,7 @@ namespace Taqui.API.Controllers
         [HttpPost]
         [ProducesResponseType(typeof(ClienteDTOResponse), (int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType((int)HttpStatusCode.NoContent)]
+        [ProducesResponseType(typeof(ErrorResponse),(int)HttpStatusCode.BadRequest)]
         public ActionResult<ClienteDTOResponse> Post([FromBody] ClienteDTORequest clienteDtoRequest)
         {
             Cliente cliente = new Cliente();
@@ -64,7 +64,7 @@ namespace Taqui.API.Controllers
 
             if (cliente == null)
             {
-                return BadRequest("Cliente não pode ser nulo.");
+                return BadRequest();
             }
 
             _repository.Add(cliente);
@@ -78,29 +78,26 @@ namespace Taqui.API.Controllers
         [HttpPut("{id}")]
         [ProducesResponseType(typeof(ClienteDTOResponse),(int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType((int)HttpStatusCode.NoContent)]
+        [ProducesResponseType(typeof(ErrorResponse),(int)HttpStatusCode.NotFound)]
+        [ProducesResponseType(typeof(ErrorResponse), (int)HttpStatusCode.BadRequest)]
         public IActionResult Put(int id, [FromBody] ClienteDTORequest clienteDtoRequest)
         {
             Cliente cliente = new Cliente();
             ClienteDTOResponse clienteDTOResponse = new ClienteDTOResponse();
 
             cliente = _service.requestToCliente(clienteDtoRequest);
+            cliente.IdUsuario = id;
 
-            if (cliente == null || id != cliente.IdUsuario)
-            {
-                return BadRequest();
-            }
-
-            var existingCliente = _repository.GetById(id);
+            Cliente existingCliente = _repository.GetById(id);
             if (existingCliente == null)
             {
                 return NotFound();
             }
 
-            _repository.Update(cliente);
+            _repository.Update(existingCliente,cliente);
             clienteDTOResponse = _service.clienteToResponse(cliente);
 
-            // Retorna o cliente sem seus dados sensíveis.
+            // Retorna o cliente com seus dados alterados, sem seus dados sensíveis.
             return Ok(clienteDTOResponse);
         }
 
@@ -108,7 +105,7 @@ namespace Taqui.API.Controllers
         [HttpDelete("{id}")]
         [ProducesResponseType((int)HttpStatusCode.OK)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType((int)HttpStatusCode.NoContent)]
+        [ProducesResponseType(typeof(ErrorResponse), (int)HttpStatusCode.NotFound)]
         public IActionResult Delete(int id)
         {
             var cliente = _repository.GetById(id);
@@ -119,6 +116,7 @@ namespace Taqui.API.Controllers
 
             _repository.Delete(id);
 
+            //Retorna nada.
             return Ok();
         }
     }

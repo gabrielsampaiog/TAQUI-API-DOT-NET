@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taqui.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1421ec52908ec4f9dcc153ecd33534bf0e4cab1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7d82da368b822150d38aa8f87bc6fc7a30a01c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taqui.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taqui.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

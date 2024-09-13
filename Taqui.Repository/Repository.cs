@@ -44,9 +44,12 @@ namespace Taqui.Repository
             return _dbSet.Find(id);
         }
 
-        public void Update(T entity)
+        public void Update(T existingEntity, T entity)
         {
-            _context.Entry(entity).State = EntityState.Modified;
+            
+            _context.Entry(existingEntity).CurrentValues.SetValues(entity);
+            _context.SaveChanges();
+            
         }
     }
 }

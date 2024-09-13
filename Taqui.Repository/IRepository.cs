@@ -8,7 +8,7 @@
 
         void Add(T entity);
 
-        void Update(T entity);
+        void Update(T existingEntity, T entity);
 
         void Delete(int id);
     }
