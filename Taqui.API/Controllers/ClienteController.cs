@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using Taqui.Models;
+using Taqui.Models.DTO;
 using Taqui.Repository;
 using Taqui.Service;
 
@@ -12,7 +13,7 @@ namespace Taqui.API.Controllers
     {
         private readonly Repository<Cliente> _repository;
 
-        private readonly ClienteService _service;
+        private readonly ClienteService _service = new ClienteService();
 
 
         public ClienteController(Repository<Cliente> repository)

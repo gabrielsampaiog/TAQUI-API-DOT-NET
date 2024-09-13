@@ -104,3 +104,5 @@ C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.API\obj\Debug\net8.0\Ta
 C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.API\obj\Debug\net8.0\ref\Taqui.API.dll
 C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.API\bin\Debug\net8.0\Taqui.Service.dll
 C:\Users\labsfiap\Desktop\DOTNET\TAQUI-API-DOT-NET\Taqui.API\bin\Debug\net8.0\Taqui.Service.pdb
+C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.API\bin\Debug\net8.0\Taqui.Service.dll
+C:\Users\phgianini\Desktop\Nova pasta\TAQUI-API-.NET-\Taqui.API\bin\Debug\net8.0\Taqui.Service.pdb

@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Taqui.Models;
+using Taqui.Models.DTO;
 
 namespace Taqui.Service
 {
     public class ClienteService
     {
-
+        //Métodos de conversão
         public Cliente requestToCliente(ClienteDTORequest clienteDtoRequest) { 
             Cliente cliente = new Cliente();
 
