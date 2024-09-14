@@ -18,7 +18,7 @@ Estamos adotando uma arquitetura de microservices para criar um sistema mais mod
 
 Design patterns utilizados Error Handling, DTOs (Data transfer Object), Service Layer e Repository Pattern
 
-Instruções de uso:
+Instruções de uso: Trocar usuário e senha no arquivo appsettings.json e rodar o comanto Update-database no terminal dentro do projeto.
 
 ```json
 {
