@@ -136,15 +136,15 @@ Aqui estão alguns links e documentos complementares para quem deseja explorar m
 - [Link 1](https://www.figma.com/proto/GbHko9nmws9NPugbske524/TAQUI?node-id=75-2690&node-type=canvas&t=dseKhQZ0fE2nCp5Y-1&scaling=scale-down&content-scaling=fixed&page-id=62%3A2196&starting-point-node-id=75%3A2690) - Protótipo Figma
 - [Link 2](https://drive.google.com/file/d/1174rHO_FRglp7t4-tU1j1UCGLTgB9j19/view?usp=sharing) - Documentação
 - [Link 2](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7rDCMiPKU8FRtReYc_HDMP) - Youtube
-- 
+
 ---
 
 ## Orientações de Uso
 
 Aqui estão as orientações para uso correto do projeto:
 
-1. Clone o repositório:
+1. Clone do repositório oficial:
    ```bash
-   git clone https://github.com...
+   git clone https://github.com/RenatoRussano/TAQUISPRINT03.git
 
-Não há orientações por enquanto
+Orientações gerais do produto final serão lançadas em breve.
